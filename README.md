@@ -15,7 +15,7 @@ to financial data from multiple sources on the web.
 When it comes to development, I like to see the full picture, so components
 like *Redis*, *Postgesql*, *Docker*, ...  are key products for me as well.
 
-Further more love Pandas to deal with data.
+Further more I love Pandas to deal with data.
 
 <!--
 **hootnot/hootnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
