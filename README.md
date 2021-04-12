@@ -2,12 +2,13 @@
 
 I'm a software developer with strong *finance roots* from the early eighties.
 (Stocks, options, Forex, ...). I am also a huge fan of REST-API's and author of some
-Python libraries to enable trading by algorithm and have easy access to the REST-API's of:
+Python libraries to enable trading by algorithm and have easy access to the REST-API's of
+OANDA and SAXO Bank, to make trading 24 hrs/day possible (Forex).
+Check the repositories for details:
 
-    - OANDA
-    - SAXO Bank
+- oanda-api-v20 (pypi: oandapyV20)
+- saxo\_openapi (pypi: saxo\_openapi)
 
-to make trading 24 hrs/day possible (Forex).
 
 Recently I've created the *virtual_finance_api* library to have easy access
 to financial data from multiple sources on the web.
