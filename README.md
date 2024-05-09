@@ -18,6 +18,10 @@ like *Redis*, *Postgesql*, *Docker*, ...  are key products for me as well.
 
 Further more I love Pandas to deal with data.
 
+Beside development I also have a strong background in unix/linux system administration. Though
+I use mostly Ubuntu these days, I'm also familiar with CentOS, RedHat, OpenBSD, FreeBSD and a bit SuSE
+and of course: virtualisation using KVM and Proxmox
+
 <!--
 **hootnot/hootnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
